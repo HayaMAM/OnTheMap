@@ -52,6 +52,14 @@ class AddNew: UIViewController, UITextFieldDelegate {
         geocodeCoordinates(studentLocation)
     }
     
+    func textFieldDidBeginEditing(_ textField: UITextField) {
+        
+        if locationTextField.text == "Enter your location" || urlTextField.text == "Enter a link to share" {
+            locationTextField.text = ""
+            urlTextField.text = ""
+        }
+    }
+    
     func geocodeCoordinates(_ studentLocation: StudentLocation) {
         
         CLGeocoder().geocodeAddressString(studentLocation.mapString!) { (placeMark, error) in
