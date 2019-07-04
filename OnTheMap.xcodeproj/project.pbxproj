@@ -93,13 +93,13 @@
 				2E1A6541229EC6D600CD3F3F /* AppDelegate.swift */,
 				2E84EEB822B30D3F00AF5F68 /* UdacityAPI.swift */,
 				2E84EEC122B3288400AF5F68 /* StudentLocation.swift */,
-				2E1A6561229EC70200CD3F3F /* Controller */,
+				2E1A6561229EC70200CD3F3F /* Controllers */,
 				2E1A6562229EC72C00CD3F3F /* View */,
 			);
 			path = OnTheMap;
 			sourceTree = "<group>";
 		};
-		2E1A6561229EC70200CD3F3F /* Controller */ = {
+		2E1A6561229EC70200CD3F3F /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
 				2E1A6543229EC6D600CD3F3F /* LoginViewController.swift */,
@@ -109,7 +109,7 @@
 				2E88D89222C06987004E9F47 /* DetailViewController.swift */,
 				DC8A84C422CC01360092778D /* TabBarController.swift */,
 			);
-			path = Controller;
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 		2E1A6562229EC72C00CD3F3F /* View */ = {
