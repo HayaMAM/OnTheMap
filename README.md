@@ -2,8 +2,8 @@
 
 On the Map is an application for Udacity students who want to share their locations and their URLs on the map. They can add their location and website by taping on the add symbol. 
 
-![alt text](https://i.postimg.cc/3xc0fKVT/Simulator-Screen-Shot-i-Phone-X-2019-08-18-at-03-01-28.png)
-![alt text](https://i.postimg.cc/76vGDKqt/Simulator-Screen-Shot-i-Phone-X-2019-08-18-at-03-02-01.png)
+![alt text](https://i.postimg.cc/P5PPwgxF/Simulator-Screen-Shot-i-Phone-X-2019-08-18-at-03-01-28.png)
+![alt text](https://i.postimg.cc/1zFXWDDG/Simulator-Screen-Shot-i-Phone-X-2019-08-18-at-03-02-01.png)
 
 ## Requiments to Run the App
 The app is built by using Xcode 10.2 version along with Swift 5. So it requires at least:
