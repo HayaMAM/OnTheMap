@@ -8,14 +8,14 @@ On the Map is an application for Udacity students who want to share their locati
 ## Requiments to Run the App
 The app is built by using Xcode 10.2 version along with Swift 5. So it requires at least:
 
-*Xcode 10+
-*Swift 4+
-*iOS 10+
+* Xcode 10+
+* Swift 4+
+* iOS 10+
 
-##Used Technologies in On the Map Project
-*Swift 5
-*UIKit framework
-*CoreData framework
-*MapKit framework
-*Udacity API
+## Used Technologies in On the Map Project
+* Swift 5
+* UIKit framework
+* CoreData framework
+* MapKit framework
+* Udacity API
 
